@@ -23,7 +23,7 @@ Below are the official instructions from the game.
 ### Player Stats
 Your progress, health and shield bars, weapons and resources collected will all be located in your player stats section. This updates frequently during the game so don't worry if you aren't sure where you are at.
 <p align="center">
-  <img src="readme-img/playerstats1.png"/> <img src="readme-img/playerstats2.png"/> 
+  <img src="readme-img/playerstats1.png" width="500" height="auto"/> <img src="readme-img/playerstats2.png" width="500" height="auto"/> 
 </p>
 
 ### Customization
