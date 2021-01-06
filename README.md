@@ -9,4 +9,27 @@ Choose where you want to land. Do you want to land at the aggressive Tilted Towe
 
 ### Play Mini Games
 There are tons of mini-games throughout your adventure. Follow the rules carefully and do as you are told. If luck is on your side you might be the winner!
+<p align="center">
+  <img src="readme-img/minigames.png"/>
+</p>
+
+### Detailed Instructions
+Below are the official instructions from the game.
+<p align="center">
+  <img src="readme-img/instructions.png"/>
+</p>
+
+## Notable Features
+### Player Stats
+Your progress, health and shield bars, weapons and resources collected will all be located in your player stats section. This updates frequently during the game so don't worry if you aren't sure where you are at.
+<p align="center">
+  <img src="readme-img/playerstats1.png"/> <img src="readme-img/playerstats2.png"/> 
+</p>
+
+### Customization
+Customize your avatar. Choose a female or male avatar, a custom name, and a costume of your choice.
+
+<p align="center">
+  <img src="readme-img/makechoices.png"/>
+</p>
 
