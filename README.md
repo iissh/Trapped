@@ -1,5 +1,5 @@
 # Trapped
-A text-based adventure game based of the popular Battle Royale game Fortnite.
+A text-based adventure game based of the popular Battle Royale game Fortnite created using **Python**.
 
 To run the game just download the `Trapped.py` file and open it up!
 
