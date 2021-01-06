@@ -1,6 +1,8 @@
 # Trapped
 A text-based adventure game based of the popular Battle Royale game Fortnite created using **Python**.
 
+Trapped is a Text-based Adventure game based on the popular game Fortnite: Battle Royale. You are up late night playing your favourite game of the season knowing very well that you have an important test the next day. You end up falling asleep mid-game only to wake up realizing that you are in the game itself. A mysterious voice tells you that the only way to escape the game and return back to reality is to get a Victory Royale. He also informs you that if you get eliminated, that’s the end of your life. You pretty much have no choice but to win the game! Good Luck on your win to survival!
+
 To run the game just download the `Trapped.py` file and open it up!
 
 ## How to Play
